@@ -1,7 +1,7 @@
 System Design Course
 Hey, welcome to the course. I hope this course provides a great learning experience.
 
-This course is also available on my website and as an ebook on leanpub. Please leave a ⭐ as motivation if this was helpful!
+This course is also available on my hashnode Blog and as an ebook on leanpub. Please leave a ⭐ as motivation if this was helpful!
 
 Table of contents
 Getting Started
