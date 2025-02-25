@@ -4600,3 +4600,5 @@ Learn how to design systems at scale and prepare for system design interviews
 leanpub.com/systemdesign
 Topics
 engineering distributed-systems microservices tech architecture scalability interview interview-preparation system-design system-design-interview
+The Role of AI in Scalable System Design 
+[Source: https://toxigon.com]
